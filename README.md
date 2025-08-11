@@ -14,7 +14,7 @@
 - 🤝 Collab on: AI/ML research, open-source projects, Kaggle competitions
 - 🕵️ Currently crafting exploits & security tools 
 - 📡 Ping me at: [Mail](dineshchitra29@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dinesh-d-72b965320/) | [Instagram](https://www.instagram.com/dinesh_d29/)
-- ⚒️ Other works: [Blog](https://crimepoints.blogspot.com/) | [HackerRank](https://www.hackerrank.com/profile/Hacker_Dinesh_D) | [freeCodeCamp](https://www.freecodecamp.org/DarkAngel29) | [Leetcode](https://leetcode.com/u/DarkAngel-29/) | [Scratch](https://scratch.mit.edu/users/Hacker_DD/) | [YouTube](https://www.youtube.com/@blankpage4894)
+- ⚒️ Other works: [Blog](https://crimepoints.blogspot.com/) | [HackerRank](https://www.hackerrank.com/profile/Hacker_Dinesh_D) | [freeCodeCamp](https://www.freecodecamp.org/DarkAngel29) | [Leetcode](https://leetcode.com/u/DarkAngel-29/) | [Kaggle](https://www.kaggle.com/ddinesh29) |  [Scratch](https://scratch.mit.edu/users/Hacker_DD/) | [YouTube](https://www.youtube.com/@blankpage4894)
 ---
 
 # 💻 Tech Stack:
